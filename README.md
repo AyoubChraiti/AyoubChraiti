@@ -6,11 +6,15 @@ I'm Ayoub, an enthusiastic software developer currently pursuing my education at
 
 ## Skills
 
-- **Programming Languages :** C
-- **Technologies and Tools :** Git, UNIX, Algorithms
-- **Operating Systems :** Linux, macOS, Windows
-- **Problem Solving :** Analytical thinking..
-- **Software Development :** Object-Oriented Programming (OOP), Agile Methodology, Test-Driven Development (TDD)
+- **Programming Languages :** Proficient in C.
+- **Technologies and Tools :** Skilled in Git, UNIX, Algorithms, and Excel.
+- **Operating Systems :** Experienced with Linux, macOS, and Windows.
+- **Problem Solving :** Sharp analytical thinking and creative solutions.
+- **Software Development :** Adept in Object-Oriented Programming (OOP), Agile Methodology, and Test-Driven Development (TDD).
+
+## alx student 
+
+I initially embarked on my coding journey by enrolling in the Data Science Hybrid Program at ALX last year. This invaluable experience provided me with a solid foundation and set me on the right track for my ongoing journey.
 
 ## 1337 Student
 
