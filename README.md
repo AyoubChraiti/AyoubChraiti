@@ -12,13 +12,9 @@ I'm Ayoub, an enthusiastic software developer currently pursuing my education at
 - **Problem Solving :** Analytical thinking and creative solutions.
 - **Software Development :** Agile Methodology, and Test-Driven Development (TDD).
 
-## alx student 
-
-I initially embarked on my coding journey by enrolling in the Data Science Hybrid Program at ALX last year. This invaluable experience provided me with a solid foundation and set me on the right track for my ongoing journey.
-
 ## 1337 Student
 
-My academic path at 1337, renowned for its project-focused learning approach, has exposed me to a wide array of programming challenges. This environment has allowed me to excel in software development, algorithms, and system architecture while nurturing my ability to thrive in collaborative team settings.
+My academic path at 1337 renowned for its project-focused learning approach, has exposed me to a wide array of programming challenges. This environment has allowed me to excel in software development, algorithms, and system architecture while enhacing my ability to thrive in collaborative team settings.
 
 ## Personal Statement
 
@@ -31,4 +27,4 @@ I have an insatiable passion for coding, continually seeking opportunities to ex
 
 ## Connect With Me
 
-I'm always eager to connect with fellow developers, embark on collaborative projects, and embrace diverse viewpoints. Don't hesitate to get in touch via [ayoubchraiti2@gmail.com] or connect with me on LinkedIn. Let's exchange ideas, explore new horizons, and make a lasting impact through our collective passion for coding.
+I'm always open to connect with fellow developers, embark on collaborative projects, and embrace diverse viewpoints. Don't hesitate to get in touch via [ayoubchraiti2@gmail.com] or connect with me on LinkedIn. Let's exchange ideas, and make a lasting impact through our collective passion for coding.
