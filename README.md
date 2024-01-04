@@ -24,6 +24,16 @@ My academic path at 1337, renowned for its project-focused learning approach, ha
 
 I have an insatiable passion for coding, continually seeking opportunities to expand my knowledge. I find fulfillment in tackling complex problems and am drawn to the intricacies of problem-solving. My commitment to crafting clean, efficient, and well-documented code is a driving force behind my ongoing self-improvement and alignment with industry best practices.
 
+### Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="Shell" **alt="Shell" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+
 ## Connect With Me
 
 I'm always eager to connect with fellow developers, embark on collaborative projects, and embrace diverse viewpoints. Don't hesitate to get in touch via [ayoubchraiti2@gmail.com] or connect with me on LinkedIn. Let's exchange ideas, explore new horizons, and make a lasting impact through our collective passion for coding.
