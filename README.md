@@ -26,7 +26,7 @@ I have an insatiable passion for coding, continually seeking opportunities to ex
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,github,git)](https://skillicons.dev)
 
 
 ## Connect With Me
