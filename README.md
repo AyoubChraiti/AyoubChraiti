@@ -3,16 +3,13 @@
 ## About Me
 
 I am Ayoub, a dedicated software developer currently enrolled at 1337 in Bengeurir, Morocco.
-My primary expertise lies in the C programming language, complemented by proficiency in Git, UNIX, and algorithms.
+My primary expertise lies in the C programming language and Python, complemented by proficiency in Git, UNIX, and algorithms.
 and I am adept at analytical problem-solving.
 
-## 1337 Student
-
-As a student at 1337, renowned for its project-focused learning approach, I have excelled in software development, algorithms, and system architecture. My commitment to crafting clean, efficient, and well-documented code is reflective of my dedication to professional excellence.
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,vscode,stackoverflow,github,git)](https://skillicons.dev)
 
 
 ## Connect With Me
