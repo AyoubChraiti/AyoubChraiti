@@ -16,3 +16,4 @@ and I am adept at analytical problem-solving.
 
 I am open to collaboration on projects and welcome discussions with fellow developers.
 Please feel free to reach out to me via [ayoubchraiti2@gmail.com] or connect with me on LinkedIn.
+![Visitor Count](https://profile-counter.glitch.me/{AyoubChraiti}/count.svg)
