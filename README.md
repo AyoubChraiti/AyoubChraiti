@@ -9,7 +9,7 @@ and I am adept at analytical problem-solving.
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,cpp,html,css,bash,vim,vscode,stackoverflow,github,git,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,bash,vim,vscode,stackoverflow,github,git,cmake)](https://skillicons.dev)
 
 
 ## Connect With Me
